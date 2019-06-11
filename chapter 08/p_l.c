@@ -15,6 +15,7 @@ int main_old(){
     return 0;
 }
 
+
 int main1(){
     int a[10], *p, i;
     p = a;
